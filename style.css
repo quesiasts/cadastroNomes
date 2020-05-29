@@ -1,0 +1,23 @@
+body {
+    background-color: darksalmon;
+    text-align: center;
+    text-size-adjust: 10px;
+}
+
+ul,
+li {
+    text-align: center;
+    text-emphasis: bold;
+    list-style-type: none;
+}
+ .clickable {
+     cursor: pointer;
+ }
+
+ .deleteButton {
+     color: white;
+     font-weight: bold;
+     background-color: darkred;
+     margin-right: 10px;
+     border-radius: 50%;
+ }
